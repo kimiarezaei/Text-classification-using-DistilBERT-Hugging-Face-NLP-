@@ -28,7 +28,7 @@ This project demonstrates **SMS spam detection** using **DistilBERT**, a lightwe
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sms-spam-distilbert.git
+git clone https://github.com/kimiarezaei/sms-spam-distilbert.git
 cd sms-spam-distilbert
 
 # Install dependencies
