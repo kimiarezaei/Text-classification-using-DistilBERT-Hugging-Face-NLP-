@@ -28,8 +28,8 @@ This project demonstrates **SMS spam detection** using **DistilBERT**, a lightwe
 
 ```bash
 # Clone the repository
-git clone https://github.com/kimiarezaei/sms-spam-distilbert.git
-cd sms-spam-distilbert
+git clone https://github.com/kimiarezaei/Text-classification-using-DistilBERT-Hugging-Face-NLP-.git
+cd Text-classification-using-DistilBERT-Hugging-Face-NLP-
 
 # Install dependencies
 pip install -r requirements.txt
